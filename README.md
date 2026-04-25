@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Benedict
 
-<!--
-**benedictgraffins-i23/benedictgraffins-i23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Diploma Student  
+🎓 Studying at Zetech University  
+🚀 Passionate about coding, Linux, and building real-world systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- Python (beginner → intermediate)
+- Java basics
+- Git & GitHub
+- Linux (Ubuntu)
+- HTML, CSS, JavaScript (learning)
+- SQL basics
+
+---
+
+## 🚗 Projects
+- Car Logbook System (Python)  
+- Calculator App  
+- To-Do List App  
+
+---
+
+## 📚 Currently Learning
+- Data Structures & Algorithms  
+- Web Development  
+- Backend Development  
+
+---
+
+## 🎯 Goals
+- Build real-world applications  
+- Improve problem solving  
+- Get internship-ready  
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/benedictgraffins-i23  
+- Email: your-email@example.com  
+
+---
+
+⭐ "Learning by building, not just watching."
